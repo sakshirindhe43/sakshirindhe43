@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on  **data analytics projects**, case studies, and real-world datasets that need cleaning, analyzing, and visualizing  
 - 📫You can reach me at **rindhesakshi02@gmail.com**
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
 
 <!---
 sakshirindhe43/sakshirindhe43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
